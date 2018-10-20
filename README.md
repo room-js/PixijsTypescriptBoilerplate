@@ -4,7 +4,7 @@ Boilerplate for [Pixi.js](http://www.pixijs.com/) with [TypeScript](https://www.
 and [Parcel](https://parceljs.org/)
 
 ## Development
-* npm run dev
+* `npm run dev`
 
 ## Production
-* npm run build
+* `npm run build`
